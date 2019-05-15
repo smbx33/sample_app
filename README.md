@@ -37,5 +37,11 @@ If the test suite passes, you'll be ready to run the app in a local server:
 $ rails server
 ```
 
+Run guard using
+```
+$ bundle exec guard
+```
+
+
 For more information, see the
 [*Ruby on Rails Tutorial* book](https://www.railstutorial.org/book).
